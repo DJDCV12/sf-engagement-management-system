@@ -46,6 +46,9 @@ Below are key snapshots of the system in action:
 *Interface used for logging Tasks and Events that drive the summary metrics.*
 
 #### Automation Logic
+![Flow Design](resources/03_flow_desing.png)
+*Detailed architecture of the Salesforce Flow automation.*
+
 ![Flow Trigger Stage](resources/03_flow_trigger_stage.png)
 *The flow entry criteria, specifically monitoring the 'Negotiation/Review' stage transition.*
 
